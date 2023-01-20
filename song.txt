@@ -1,0 +1,13 @@
+0.25  E  4  NATURAL true
+0.5  B  4  NATURAL false
+0.75  A  3 NATURAL true
+0.5  A  5  NATURAL false
+0.75  B  2  NATURAL false
+0.75  B  4  NATURAL false
+0.25  C  5  NATURAL false
+0.5  D  3  NATURAL false
+0.75  A  3  NATURAL false
+0.75  E  3  NATURAL false
+0.25  E  4  NATURAL true
+0.5  B  4  NATURAL false
+0.75  A  3 NATURAL true
